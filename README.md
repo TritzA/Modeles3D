@@ -8,6 +8,15 @@ Divertissement et curiosité pour l'impression 3D.
 Logiciel de modélisation : [Blender](https://www.blender.org)
 
 ## Représentation
-Description de l'image.
+Éponge de Menger.
 
-![alt text](https://github.com/TritzA/TableHachage/)
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/menger.PNG)
+
+Draps sur une pyramide.
+
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/draps.PNG)
+
+
+Pyramide de Sierpinski.
+
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/sierpinski.PNG)
