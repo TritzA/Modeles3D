@@ -14,7 +14,7 @@ Logiciel de modélisation : [Blender](https://www.blender.org)
 
 Éponge de Menger.
 
-![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/menger.PNG)
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/menger.png)
 
 Draps sur une pyramide.
 
