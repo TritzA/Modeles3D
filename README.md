@@ -18,9 +18,9 @@ Logiciel de modélisation : [Blender](https://www.blender.org)
 
 Draps sur une pyramide.
 
-![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/draps.PNG)
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/draps.png)
 
 
 Pyramide de Sierpinski.
 
-![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/sierpinski.PNG)
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/sierpinski.png)
