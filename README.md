@@ -14,13 +14,13 @@ Logiciel de modélisation : [Blender](https://www.blender.org)
 
 Éponge de Menger.
 
-![alt text](https://github.com/TritzA/Modeles3D/blob/master/menger.PNG)
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/menger.PNG)
 
 Draps sur une pyramide.
 
-![alt text](https://github.com/TritzA/Modeles3D/blob/master/draps.PNG)
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/draps.PNG)
 
 
 Pyramide de Sierpinski.
 
-![alt text](https://github.com/TritzA/Modeles3D/blob/master/sierpinski.PNG)
+![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/sierpinski.PNG)
