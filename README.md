@@ -16,7 +16,7 @@ Logiciel de modélisation : [Blender](https://www.blender.org)
 
 ![alt text](https://github.com/TritzA/Modeles3D/blob/master/images/menger.png)
 
-Suite à l'impression
+Suite à l'impression.
 
 ![alt text](https://github.com/TritzA/Modeles3D/blob/master/eponge%20de%20menger/86472577_187241749350363_8713607754381524992_n.jpg)
 
