@@ -1,4 +1,4 @@
-# Modeles3D
+# Modeles-3D
 
 Modèles 3D en *.stl à imprimer en impression 3D (draps, pièces techniques, art fractal). Mes projets ont été imprimés sur Prusa et Tinkerine.
 
